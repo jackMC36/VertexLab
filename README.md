@@ -4,7 +4,7 @@
 A lightweight C++ library for graph representation and basic algorithms. Supports adjacency lists and matrices, with optional visualization and pathfinding tools.
 
 ## Directory Structure
-    VertexLab-main/
+    VertexLab/
     ├── README.md
 
 ## Features
@@ -14,7 +14,7 @@ A lightweight C++ library for graph representation and basic algorithms. Support
 1. Clone the repository:
     ```sh
     git clone <repository_url>
-    cd VertexLab-main
+    cd VertexLab
     ```
 2. Compile the project using the provided Makefile:
     ```sh
