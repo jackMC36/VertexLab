@@ -26,4 +26,4 @@ A lightweight C++ library for graph representation and basic algorithms. Support
     ```sh
     ./VertexLab
     ```
-- Follow the on-screen instructions to play the game.
+
