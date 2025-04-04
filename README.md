@@ -4,7 +4,7 @@
 A lightweight C++ library for graph representation and basic algorithms. Supports adjacency lists and matrices, with optional visualization and pathfinding tools.
 
 ## Directory Structure
-    Jeu-De-Taquin-main/
+    VertexLab-main/
     ├── README.md
 
 ## Features
