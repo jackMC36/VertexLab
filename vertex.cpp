@@ -2,15 +2,15 @@
 using namespace std;
 
 class Vertex{
-    string name;
+    private:
+        string name;
 
-    Vertex::Vertex(std::string name){
-        this->name =  name;
-    }
+        public:
+            Vertex(string name){
+                this->name =  name;
+            }
 
-    Vertex::Vertex(int index){
-        this->name = (char) index;
-    }
-
-    
+            Vertex(int index){
+                this->name = (char) index;
+            }
 };
